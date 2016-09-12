@@ -16,7 +16,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Toast;
 
-public class DrawFragment extends Fragment implements OnClickListener {
+public class  DrawFragment extends Fragment implements OnClickListener {
 private ImageView singleBond,doubleBond,tripleBond,cyclohexane, finalstructure;
 private DrawingView drawView;
 Button submit;
